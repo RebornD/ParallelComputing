@@ -1,13 +1,17 @@
 parallel.py
 -----------
-	#で囲まれた部分を変更してください，バッチファイルを指定するのが普通だと思います．
-	これはHVを計算するときにも使えると思いますが，計算の順番を意識する必要あり．
-			
-	単純に言うと，最大CPU個数のかずだけ同時にプログラムを起動するスクリプトです．
-	バッチファイルをいちいち作成する必要がなく自由に変更が効きやすいのでおすすめ．
-	ファイル読み書きがなければ，各プログラムは独立に実行するため，スレッドセーフな並列化です．
+	This python script starts some programs in paralle by using multiprocessing module.
+	This number of programs simultaneously solved is the same as the number of CPUs in your PC.
+	All you need is to install python environment and multiprocessing module.I think that anaconda3 will help you.
+	If you konw about this module in detail. please read a reference.
+	I think this script is very useful. please re-code this script as you please if you use this script.
+		
+Reference
+-----------
+https://docs.python.org/3.4/library/multiprocessing.html?highlight=process
 
 
 
 
 ##2017/09/18
+## Ryuichi Hashimoto
