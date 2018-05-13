@@ -14,4 +14,6 @@ https://docs.python.org/3.4/library/multiprocessing.html?highlight=process
 
 
 ##2017/09/18
-## Ryuichi Hashimoto
+## Authoer 
+
+Ryuichi Hashimoto
