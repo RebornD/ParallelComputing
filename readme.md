@@ -1,10 +1,10 @@
 parallel.py
 -----------
 	This python script starts some programs in parallel by using multiprocessing module.
-	The number of programs simultaneously solved is the same as the number of CPUs in your PC.
+	The max number of programs simultaneously solved is the same as the number of CPUs in your PC.
 	All you need is to install python environment and multiprocessing module.I think that anaconda3 will help you.
 	If you konw about this module in detail. please read a reference.
-	I think this script is very useful. please re-code this script as you please if you use this script.
+	I think this script is very useful!! please re-code this script as you please.
 		
 Reference
 -----------
